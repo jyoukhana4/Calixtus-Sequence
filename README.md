@@ -4,11 +4,11 @@ Fibonacci is done to death, and the Van Eck Sequence is too popular now too
 Let's develop a program that will produce and output the first 100 values in my newest sequence, the Calixtus sequence!
 
 
-C(0) = 1
+     C(0) = 1
 
-C(1) = 3
+     C(1) = 3
 
-C(n) = IF n IS DIVISIBLE BY 3
+     C(n) = IF n IS DIVISIBLE BY 3
 
             THEN C(n) = C(n-1) + C(n-2)
 
